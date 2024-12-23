@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "ZhanStaff",
+    "password": "",
+    "type": "tlauncher"
+  },
+
+  "server": {
+    "ip": "SERVER_mas_rusdi.aternos.me",
+    "port": 24193,
+    "version": "1.12.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "jump": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "gweh fine ",
+        "lu saha ",
+        "mau sendiri ",
+        "yahaha hayuk"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 180
+  }
+}
